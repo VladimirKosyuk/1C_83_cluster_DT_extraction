@@ -1,0 +1,15 @@
+#указываем путь к RAS.exe, например C:\Program Files (x86)\1cv8\8.3.12.1595\bin
+path = 
+#указываем ip adress и порт для RAS.exe, например localhost:1540
+IpAddressAndPort = 
+#указываем логин и пароль администратора для баз данных
+userName = 
+password = 
+#задаем путь к хранилищу бекапов 
+destination = 
+#указываем список лиц для оповещения, например test1@example.ru, test2@example.ru, test3@example.ru
+recipients= 
+#указываем логин для отправки почты
+SmtpLogin = 
+#указываем пароль для отправки почты
+SmtpPassword = 
